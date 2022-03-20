@@ -6,10 +6,11 @@ I am Çağlar, developing cross platform mobile applications with react-native. 
 
 <p align="center">
 <a href="https://github.com/caglar09" target="_blank"><img src="https://komarev.com/ghpvc/?username=caglar09&color=green" alt="caglar09 :: Profile Stats"></a>
+<a href="https://cglryldrm.com" target="_blank"><img alt="My Site" src="https://img.shields.io/badge/cglryldrm.com-4353ff?style=flat-square&logo=link"></a>
 <a href="mailto:cglryldrm.09@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-cglryldrm.09@gmail.com-4353ff?style=social&logo=gmail"></a>
 <a href="https://www.linkedin.com/in/cglr-yldrm/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Çağlar_Yıldırım-0e76a8?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/cglryldrm09/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Çağlar_Yıldırım-E4405F?style=flat-square&logo=instagram"></a>
-  <a href="https://twitter.com/cglryldrm_09" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Çağlar_Yıldırım-1DA1F2?style=flat-square&logo=twitter"></a>
+<a href="https://twitter.com/cglryldrm_09" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Çağlar_Yıldırım-1DA1F2?style=flat-square&logo=twitter"></a>
 </p>
 
 ### <h3 align="center"> Languages,Technologies and Tools</h3>

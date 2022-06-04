@@ -1,6 +1,6 @@
 ### Hi! Welcome To My Page 👋
 
-I am Çağlar, developing cross platform mobile applications with react-native. Before I started mobile application development, I was developing web applications. Here I share my web and mobile applications
+I am Çağlar, developing cross platform mobile applications with react-native. Before I started mobile application development, I was developing web applications. Here I share my web and mobile application works.
 
 ### <h3 align="center">Connect with me</h3>
 

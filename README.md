@@ -1,6 +1,15 @@
 ### Hi! Welcome To My Page 👋
 
-I am Çağlar, developing cross platform mobile applications with react-native. Before I started mobile application development, I was developing web applications. Here I share my web and mobile application works.
+
+<p align="center">
+I am Çağlar, developing cross platform mobile applications with react-native. Before I started mobile application development, I was developing web applications. Here I share my web and mobile application works. 
+</p>
+ 
+
+<p align="center">
+        <a href="https://app.daily.dev/cglryldrm"><img src="https://api.daily.dev/devcards/ab3ec87cb7f74598ae00edf304028b87.png?r=b3r" width="200" alt="Çağlar Yıldırım's Dev Card"/></a>
+</p>
+
 
 ### <h3 align="center">Connect with me</h3>
 
@@ -22,6 +31,7 @@ I am Çağlar, developing cross platform mobile applications with react-native. 
 <img src="./logos/css.svg" alt="Css" width="40" height="40"/>
 <img src="./logos/csharp.svg" alt="c#" width="40" height="40"/> 
 <img src="./logos/net.svg" alt=".Net" width="40" height="40"/>
+
 
 ### <h2 align="center">My GitHub Stats :bar_chart:</h2>
 
